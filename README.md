@@ -18,6 +18,10 @@ You Will Use Nodejs For Writing In allsongs.js File All Your Songs List In The M
 
 You Can Do it Without Nodejs but recommented To Use Nodejs If You Have A Lot Of Songsssssssss!
 
+To Play/Pause The audio: just Left Click With Mouse
+To Change Volume Level: Just Use Music Wheel
+To Skip 5 Seconds To Frond Or Back 5 Seconds: Left & Right Arrow In KeyBoard
+
 ## Examples
 I has Been Add 1 Song In The Project For Test The Local
 local: https://alighamdan.github.io/audio-visualize/index.html?song=Sing Me To Sleep (Marshmello Remix).mp3
